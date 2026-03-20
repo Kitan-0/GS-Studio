@@ -1,0 +1,5 @@
+{
+  "name": "PCPGS Studio 3DGS 工作站",
+  "description": "一个用于 3D Gaussian Splatting 数据管理、训练配置和实时 Web 可视化的专业界面。",
+  "requestFramePermissions": []
+}
